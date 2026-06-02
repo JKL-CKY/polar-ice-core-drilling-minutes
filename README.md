@@ -1,0 +1,2 @@
+# polar-ice-core-drilling-minutes
+极地冰芯钻探队冰封纪要全栈系统——前端显示冰层深度与气泡成分图表，后端在低温低气压环境中采集语音，librosa补偿高海拔声学特性，Whisper转写年代推断与气候事件，pyannote标记工程师与气候学家，OpenAI生成钻探日志摘要与样品分配方案，铱星链路回传
